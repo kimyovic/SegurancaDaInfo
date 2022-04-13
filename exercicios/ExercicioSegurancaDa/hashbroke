@@ -1,0 +1,7 @@
+import hashlib
+class Hash:
+  hash = " "
+def quebraHash():
+  broke = Hash()
+  for hash in range(0,10):
+    print(hash)
